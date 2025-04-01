@@ -1,1 +1,1 @@
-This is the code for model compression for object detection of citizen science data.
+This is the code for the paper A Comparison of Deep Neural Network Compression for Citizen-Driven Tick and Mosquito Surveillance.
