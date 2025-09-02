@@ -8,6 +8,7 @@ Link to the research article: [to appear soon]
 Keywords: deep learning, pruning, quantization, object detection, tick and mosquito citizen science
 ## Authors
 Yichao Liu[1], Emmanuel Dufour[2],[3],[4], Peter Fransson[1], Joacim Rocklöv[1], [5], [6]
+
 [1]: Interdisciplinary Center for Scientific Computing, Heidelberg University, 69120, Germany
 [2]: African Institute for Mathematical Sciences, Muizenberg, South Africa
 [3]: African Institute for Mathematical Sciences Research and Innovation Centre, Kigali, Rwanda
