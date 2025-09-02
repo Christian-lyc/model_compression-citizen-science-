@@ -27,5 +27,6 @@ Python>=3.10.18
 Torchinfo==1.8.0  
 Torch-pruning==1.5.1  
 Pytorch==2.2.0+cu121
+onnxruntime==1.19.2  
 
 Note: in order to run the code, some adaption need to be done for Ultralytics package, see modification folder.
