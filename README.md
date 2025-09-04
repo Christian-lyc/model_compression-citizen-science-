@@ -7,14 +7,12 @@ Link to the research article: [to appear soon]
 
 Keywords: deep learning, pruning, quantization, object detection, tick and mosquito citizen science
 ## Authors
-Yichao Liu[1], Emmanuel Dufour[2],[3],[4], Peter Fransson[1], Joacim Rocklöv[1], [5], [6]
+Yichao Liu[1], Emmanuel Dufourq[2], Peter Fransson[1], Joacim Rocklöv[1], [3], [4]
 
 [1]: Interdisciplinary Center for Scientific Computing, Heidelberg University, 69120, Germany  
-[2]: African Institute for Mathematical Sciences, Muizenberg, South Africa  
-[3]: African Institute for Mathematical Sciences Research and Innovation Centre, Kigali, Rwanda  
-[4]: Department of Mathematical Sciences, Stellenbosch University, Stellenbsoch, South Africa  
-[5]: Heidelberg Institute of Global Health, Heidelberg University Hospital, 69120, Germany  
-[6]: Department of Epidemiology and Global Health, Umeå University, Sweden  
+[2]: Computer Science, University of Northern Iowa, 50614, United States of America   
+[3]: Heidelberg Institute of Global Health, Heidelberg University Hospital, 69120, Germany  
+[4]: Department of Epidemiology and Global Health, Umeå University, Sweden  
 
 ![model compression](https://github.com/Christian-lyc/model_compression-citizen-science-/blob/main/model%20compression.png)
 ## Demo
