@@ -14,7 +14,7 @@ Yichao Liu[1], Emmanuel Dufourq[2], Peter Fransson[1], Joacim Rocklöv[1], [3], 
 [3]: Heidelberg Institute of Global Health, Heidelberg University Hospital, 69120, Germany  
 [4]: Department of Epidemiology and Global Health, Umeå University, Sweden  
 
-![model compression](https://github.com/Christian-lyc/model_compression-citizen-science-/blob/main/model%20compression.png)
+![model compression]([https://github.com/Christian-lyc/model_compression-citizen-science-/blob/main/model%20compression.png](https://github.com/Christian-lyc/model_compression-citizen-science-/blob/main/model%20compression.png))
 ## Demo
 
 A quick 3 minute demo for Algorithm 1 is available here on <a href="https://colab.research.google.com/drive/1Lq1rPGPg3viidtC5pXP0AphMx-RxfTiA?usp=sharing">Google Colab demo</a>.
